@@ -1,0 +1,6 @@
+{
+    "require": {
+        "piwik/device-detector": "^3.7",
+        "doctrine/cache": "^1.6"
+    }
+}
